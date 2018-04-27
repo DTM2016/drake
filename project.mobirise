@@ -524,7 +524,10 @@
               "color": "#232323"
             },
             ".hart1": {
-              "color": "#23b4d2 !important"
+              "color": "red !important",
+              "padding-bottom": "74px !important",
+              "font-size": "55px !important",
+              "line-spacing": "55px !important"
             }
           },
           "_name": "content4",
