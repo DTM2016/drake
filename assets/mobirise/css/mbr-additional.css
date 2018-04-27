@@ -1687,7 +1687,7 @@ body {
 .cid-qQmhfDjcU1 .mbr-section-subtitle B {
   color: #232323;
 }
-.cid-qQmhfDjcU1 #hart1 {
+.cid-qQmhfDjcU1 .hart1 {
   color: #23b4d2 !important;
 }
 .cid-qQnwdzmE1s {
@@ -1704,6 +1704,9 @@ body {
 }
 .cid-qQnwdzmE1s B {
   color: #0f7699;
+}
+.cid-qQnwdzmE1s .hart1 {
+  color: #23b4d2 !important;
 }
 .cid-qQmBbgmxXb {
   padding-top: 15px;
