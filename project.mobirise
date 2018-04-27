@@ -562,6 +562,9 @@
             },
             ".hart1": {
               "color": "#23b4d2 !important"
+            },
+            "SPAN": {
+              "color": "#232323"
             }
           },
           "_name": "social-buttons2",
