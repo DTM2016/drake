@@ -471,17 +471,17 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/eagle2-1-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sld3-1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sld3-2-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/sld3-841x730.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/sld3-1-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/sld3-1-841x730.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/sld3-2-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
