@@ -481,16 +481,17 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/painter-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sld3-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "src": "@PROJECT_PATH@/assets/images/sld3-1300x1128.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/sld3-85x48.png",
                 "title": "title 3",
-                "text": "text 3"
+                "text": "text 3",
+                "active": false
               }
             ],
             "fullScreen": true,
