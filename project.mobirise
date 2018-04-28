@@ -459,7 +459,7 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "kenburns",
+            "animType": "blur",
             "theme": "boundary",
             "slides": [
               {
@@ -478,7 +478,8 @@
                 "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
                 "title": "title 2",
-                "text": "text 2"
+                "text": "text 2",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
@@ -494,8 +495,8 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "1",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#ffffff",
