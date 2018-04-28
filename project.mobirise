@@ -459,59 +459,6 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "blur",
-            "theme": "simple",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/eagle2-2-640x480.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/eagle2-1300x733.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/eagle2-1-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/painter-1600x1080.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/painter-300x200.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/painter-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "1",
-            "paddingTop": "3",
-            "paddingBottom": 0,
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": "0.5",
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "640x480",
-            "width": "1600",
-            "height": "1080"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1"
-        },
-        {
-          "_params": {
-            "autoplay": true,
             "animType": "kenburns",
             "theme": "boundary",
             "slides": [
