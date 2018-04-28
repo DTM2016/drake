@@ -721,7 +721,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".card-wrapper": {
               "height": "100%",
@@ -742,7 +742,7 @@
               }
             },
             ".card-title": {
-              "color": "#efefef"
+              "color": "#232323"
             }
           },
           "_name": "features3",
