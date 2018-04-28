@@ -488,7 +488,7 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "2",
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "captionsEffect": "slide",
             "showBullets": false,
