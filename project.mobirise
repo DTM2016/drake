@@ -679,7 +679,7 @@
           "_anchor": "features17-1w",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">\n    alert(txtAboutus.innerHTML);\nfunction speak() {\nvar u = new SpeechSynthesisUtterance();\nu.text = (txtTTS.value) ? (txtTTS.value) : \"box empty\";\nu.lang = 'en-US'; \nu.rate = 1.2;\n\nspeechSynthesis.speak(u);\n}\n</script>"
+            "<script type=\"text/javascript\">\n    \nfunction speak() {\nvar u = new SpeechSynthesisUtterance();\nu.text = txtAboutus.innerHTML;\nu.lang = 'en-US'; \nu.rate = 1.2;\n\nspeechSynthesis.speak(u);\n}\n</script>"
           ],
           "_protectedParams": [],
           "_global": false,
