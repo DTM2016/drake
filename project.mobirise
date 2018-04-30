@@ -470,7 +470,7 @@
           "_anchor": "custom-html-2g",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script>\n    alert(0);\n</script>"
+            "<script>\n    //alert(0);\n    document.onReady({\n        alert(\"doc-ready\"); \n    });\n</script>"
           ]
         },
         {
