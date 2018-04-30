@@ -671,6 +671,10 @@
                 "max-width": "20%",
                 "padding": "15px"
               }
+            },
+            "#talk": {
+              "color": "#23b4d2",
+              "font-size": "25px"
             }
           },
           "_name": "features17",
