@@ -674,7 +674,8 @@
             },
             "#talk": {
               "color": "#23b4d2",
-              "font-size": "85px"
+              "font-size": "55px",
+              "left": "100px"
             }
           },
           "_name": "features17",
