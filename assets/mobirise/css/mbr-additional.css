@@ -1926,6 +1926,10 @@ body {
 .cid-qQmzfJe7x9 hr {
   width: 80%;
 }
+.cid-qQmzfJe7x9 .but1 {
+  color: #fff !important;
+  font-size: 20px !important;
+}
 .cid-qQPozfVBeA {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -1936,6 +1940,10 @@ body {
 }
 .cid-qQPozfVBeA .title {
   text-align: center;
+}
+.cid-qQPozfVBeA .but1 {
+  color: #fff !important;
+  font-size: 20px !important;
 }
 .cid-qQmwls0Q5g {
   padding-top: 30px;
