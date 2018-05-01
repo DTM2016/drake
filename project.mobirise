@@ -460,7 +460,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">\n\n{JS_CODE_0}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@ADDONS_PATH@/code-editor/pro.custom-html/assets/code-editor-placeholder.jpg\">\n\n{JS_CODE_0}",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
