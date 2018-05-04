@@ -2002,6 +2002,10 @@ body {
 .cid-qQmBbgmxXb .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-qQmBbgmxXb .mbr-section.content4 {
+  position: sticky;
+  top: 120px;
+}
 .cid-qQvdDgNnpc {
   padding-top: 0px;
   padding-bottom: 90px;
