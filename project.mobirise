@@ -45,7 +45,7 @@
         "main": true,
         "title": "Hart Enterprise",
         "meta_descr": "daltech+mobile, daltech mobile, mobile+app+publisher",
-        "header_custom": "",
+        "header_custom": "<style>\nmbr-section { position: sticky; top: 120px; color: black !important; }\n</style>",
         "footer_custom": "",
         "html_before": ""
       },
