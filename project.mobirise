@@ -962,7 +962,7 @@
               "color": "#23b4d2",
               "font-size": "50px",
               "position": "absolute",
-              "top": "50%",
+              "top": "45%",
               "left": "50px"
             }
           },
@@ -972,7 +972,7 @@
           "_anchor": "features17-1w",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">\n\n    function speakX() {\n        var utterance = new SpeechSynthesisUtterance(\"can we do sex cheryl, please\");\n\n        utterance.voice = voices[4];\t\t// female=3, male=4\n        utterance.lang = voices[3].lang;\t// female=3, male=3\n\n        window.speechSynthesis.speak(utterance);\n    }\n\n\n    function speak() {\n            sayText = `As owner of Hart Enterprise, i have for over 30 years helping (Residential and Business) properties with many services, such as, painting, home-remodeling or Interstate Moving, We always say no job is to small or too big for us to handle, We always deliver expert service with a smile`;\n\n        voices = speechSynthesis.getVoices();\n        var u = new SpeechSynthesisUtterance();\n        \n        u.voice = voices[4];\n        u.lang = voices[3].lang;\n        u.text = sayText;\n        u.rate = 1.2;\n\n        speechSynthesis.speak(u);\n    }\n</script>"
+            "<script type=\"text/javascript\">\n\n    function speakX() {\n        var utterance = new SpeechSynthesisUtterance(\"can we do sex cheryl, please\");\n\n        utterance.voice = voices[4];\t\t// female=3, male=4\n        utterance.lang = voices[3].lang;\t// female=3, male=3\n\n        window.speechSynthesis.speak(utterance);\n    }\n\n\n    function speak() {\n        var sayText = \"As owner of Hart Enterprise, i have for over 30 years helping (Residential and Business) properties with many services, such as, painting, home-remodeling or Interstate Moving, We always say no job is to small or too big for us to handle, We always deliver expert service with a smile\";\n\n        voices = window.speechSynthesis.getVoices();\n        var u = new SpeechSynthesisUtterance();\n        \n        u.voice = voices[4];\n        u.lang  = voices[4].lang;\n        u.text = sayText;\n        u.rate = 1.2;\n\n        speechSynthesis.speak(u);\n    }\n</script>"
           ],
           "_protectedParams": [],
           "_global": false,
