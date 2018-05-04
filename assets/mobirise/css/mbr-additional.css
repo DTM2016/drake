@@ -2003,8 +2003,8 @@ body {
   color: #ffffff;
 }
 .cid-qQmBbgmxXb .mbr-section.content4 {
-  position: sticky;
-  top: 250px;
+  position: sticky !important;
+  top: 250px !important;
 }
 .cid-qQvdDgNnpc {
   padding-top: 0px;
