@@ -1086,7 +1086,7 @@
           "_anchor": "features17-1w",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">\n    \nfunction speak() {\n        sayText = \"As owner of Hart Enterprise, i have for over 30 years helping (Residential and Business) properties with many services, such as, painting, home-remodeling or Interstate Moving, We always say no job is to small or too big for us to handle, We always deliver expert service with a smile\";\n    \n    \tvoices = speechSynthesis.getVoices()\t/\n    var u = new SpeechSynthesisUtterance();\n    \tu.voice = voices[4];\n\t\tutterance.lang = voices[3].lang;\n    u.text = sayText;\n    // u.lang = 'en-US'; \n    u.rate = 1.2;\n\n    speechSynthesis.speak(u);\n}\n</script>"
+            "<script type=\"text/javascript\">\n    \nfunction speak() {\n        sayText = \"As owner of Hart Enterprise, i have for over 30 years helping (Residential and Business) properties with many services, such as, painting, home-remodeling or Interstate Moving, We always say no job is to small or too big for us to handle, We always deliver expert service with a smile\";\n    \n    \tvoices = speechSynthesis.getVoices()\t/\n    var u = new SpeechSynthesisUtterance();\n    \tu.voice = voices[4];\n\t\tu.lang = voices[3].lang;\n    u.text = sayText;\n    // u.lang = 'en-US'; \n    u.rate = 1.2;\n\n    speechSynthesis.speak(u);\n}\n</script>"
           ],
           "_protectedParams": [],
           "_global": false,
