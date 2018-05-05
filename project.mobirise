@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#418756",
         "#74da92",
-        "#bbeac9"
+        "#bbeac9",
+        "#23b4d2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -860,7 +861,7 @@
             },
             ".mbr-text P": {
               "text-align": "center",
-              "color": "#149dcc"
+              "color": "#23b4d2"
             }
           },
           "_name": "content1",
@@ -870,7 +871,9 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "content1-32"
+          "_anchor": "content1-32",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
