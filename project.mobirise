@@ -965,10 +965,10 @@
             },
             ".talk": {
               "position": "absolute",
-              "bottom": "20px",
-              "left": "20px",
-              "color": "#23b4d2",
-              "font-size": "50px"
+              "top": "50%",
+              "left": "3%",
+              "color": "#418756",
+              "font-size": "40px"
             }
           },
           "_name": "features17",
