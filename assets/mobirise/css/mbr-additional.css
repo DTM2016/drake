@@ -1967,14 +1967,21 @@ body {
   font-size: 30px !important;
   line-height: 5px !important;
 }
+.cid-qQmhfDjcU1 SPAN {
+  color: #149dcc;
+}
 .cid-qRcaBVh6cF {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qRcaBVh6cF .mbr-text,
 .cid-qRcaBVh6cF blockquote {
   color: #767676;
+}
+.cid-qRcaBVh6cF .mbr-text P {
+  text-align: center;
+  color: #149dcc;
 }
 .cid-qQnwdzmE1s {
   padding-top: 0px;
@@ -2222,7 +2229,7 @@ body {
 }
 .cid-qQmzfJe7x9 .ico1 {
   color: #fff !important;
-  font-size: 45px !important;
+  font-size: 30px !important;
 }
 .cid-qQPozfVBeA {
   padding-top: 0px;
